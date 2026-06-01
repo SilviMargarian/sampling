@@ -40,30 +40,27 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of my survey is to find out if there is an association between age and music preference. The survery aims to compare perceptions of music across different age groups and explore how people believe their music taste changed over time. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population is the people in their 20s, 40s, and 60s. The sampling frame is students, teaching assistants and professors at University of Toronto willing to fill out the survey. Both the sampling and observational unit is the individual participant selected for the study. 
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your current age?
+2. What music genre do you listen to most often currently?
+3. How often do you listen to music? 
+4. What music genre did you listen to most often 20 years ago (if applicable)?
+5. What music genre did you listen to most often 40 years ago (if applicable)
+6. To what extent do you agree with the following statement: "My music taste has changed significantly over the years." 
+7. Please briefly describe how your music taste changed over time. 
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +68,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: The sample was based on a stratified design employing probability sampling.
+2. Sample size: There were 16149 respondents in total.
+3. Target population: People aged 15 years and over, living in private households in Canada in 10 provinces.
+4. Sampling frame: The survey used a frame that combined landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Information was collected from one randomly selected household member aged 15 or older.
+5. Survey mode(s): Data were collected directly from survey respondents either through an electronic questionnaire or through CATI (computer assisted telephone interviewing). 
+6. Timeline: The data was collected from September to December, 2018. 
+7. Response rate: The overall response rate was 41.9%.
+8. Weights: They used estimation weights to produce population-representative estimates, and bootstrap weights for design-based variance estimation.
+9. Data processing: Data processing involved both automated and manual editing procedures at the micro and macro levels. Family, consistency, and flow edits were used to verify relationships, identify inconsistencies, and ensure teh respondents followed the survery correctly. The CATI system automatically detected out of range values and other errors during interviews, with unresolved issues reviewed and corrected by Statistics Canada staff. 
+10. Cleaning, imputation, etc: They used donor imputation in most cases when data was missing (these imputations were made using donor records selected through a score function) and mean imputation when donor imputation could not be used. Certain characteristics on each record with item or partial non response (also called a recipient record) were compared with the characteristics on all donor records. When a characteristic was the same on the donor record and the recipient record, the donor's score increased. The donor record with the highest score was deemed the "nearest" donor and was chosen to fill in the missing information of the non respondent. If more than one donor record had the highest score, one record was randomly selected. The pool of donor records was made up in such a way that the imputed value assigned to the recipient, in conjunction with other non imputed items from the recipient, would still pass the edits.
+11. Sources of error: The results of the survey may have both sampling and non-sampling error.Estimates based on a sample will vary from sample to sample, and typically they will be different from the results that would have been obtained from a complete census. Non-sampling error results from nonresponse, respondent misundarstanding, etc. 
+12. Limitations, known biases, etc: Households without telephones, as well as households with telephone services not covered by the current frame, represent a part of the target population that was excluded from the surveyed population. 
+13. Link to documentation and any additional sources used:
+-https://www150.statcan.gc.ca/n1/daily-quotidien/210126/dq210126h-eng.htm
+-https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 ```
 
 ## Rubric
